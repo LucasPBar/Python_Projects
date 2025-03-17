@@ -23,7 +23,7 @@ Fique à vontade para sugerir melhorias ou abrir **PRs**! Toda contribuição é
 Se você tiver dúvidas, sugestões ou quiser colaborar de alguma forma, sinta-se à vontade para entrar em contato:
 
 - **Email**: lucaspimenta1805@gmail.com
-- **LinkedIn**: [Seu Perfil](www.linkedin.com/in/lucaspimentabarretto)
-- **GitHub**: [Seu Usuário](https://github.com/LucasPBar)
+- **LinkedIn**: [Lucas Barretto](www.linkedin.com/in/lucaspimentabarretto)
+- **GitHub**: [LucasPBar](https://github.com/LucasPBar)
 
 
